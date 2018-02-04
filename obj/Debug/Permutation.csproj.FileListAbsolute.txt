@@ -1,0 +1,7 @@
+e:\OneDrive\Documentos\Visual Studio 2017\Projects\Permutation\Permutation\obj\Debug\Permutation.csprojResolveAssemblyReference.cache
+e:\OneDrive\Documentos\Visual Studio 2017\Projects\Permutation\Permutation\obj\Debug\Permutation.csproj.CoreCompileInputs.cache
+e:\OneDrive\Documentos\Visual Studio 2017\Projects\Permutation\Permutation\bin\Debug\Permutation.exe.config
+e:\OneDrive\Documentos\Visual Studio 2017\Projects\Permutation\Permutation\bin\Debug\Permutation.exe
+e:\OneDrive\Documentos\Visual Studio 2017\Projects\Permutation\Permutation\bin\Debug\Permutation.pdb
+e:\OneDrive\Documentos\Visual Studio 2017\Projects\Permutation\Permutation\obj\Debug\Permutation.exe
+e:\OneDrive\Documentos\Visual Studio 2017\Projects\Permutation\Permutation\obj\Debug\Permutation.pdb
